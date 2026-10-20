@@ -15,7 +15,7 @@ How do physical inactivity, access to exercise opportunities, and life expectanc
 | Source | What it provides | Release used |
 | --- | --- | --- |
 | [County Health Rankings & Roadmaps](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation) | County-level health outcomes, health factors, and social and economic measures | 2025 |
-| [CDC PLACES](https://data.cdc.gov/browse?category=500+Cities+%26+Places&q=&sortBy=relevance&page=1&pageSize=20) | Model-based county estimates of chronic disease, health behaviors, and social needs | 2025 |
+| [CDC PLACES](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2025-releas/i46a-9kgh/about_data) | Model-based county estimates of chronic disease, health behaviors, and social needs | 2025 |
 
 Both sources are public. The raw files are not stored here; use the links above to download them. The final analysis table used in the dashboard is in `data/`, one row per county, sorted by FIPS code.
 
